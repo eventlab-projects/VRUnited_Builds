@@ -20,4 +20,5 @@ Follow the [Wiki](https://github.com/eventlab-projects/VRUnited_Builds/wiki) for
 # Appendix A: Installing an APK from your computer using SideQuest
 
 This step is necessary only if you are going to run VRUnited in a mobile platform, like _Quest_ and _Pico_. [SideQuest](https://sidequestvr.com/) is a third-party application that makes sideloading content onto your Android VR Headset (tipycally Oculus Quest and Pico families) really easy. To start with, simply [download](https://sidequestvr.com/setup-howto) the version that matches your system.
+
 Once it is installed on your system, open SideQuest. Connect your VR device to the computer using the USB-C cable that goes with it. If the device is properly connected, at the top left corner it should appear the type of the device that you have connected and some information like the local IP address and the battery level.
