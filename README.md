@@ -14,3 +14,5 @@ If you don’t have an HMD, you also can use the VRUnited application as a norma
 Also take into consideration that, if you are running the application through the PC (with VR support or not), you need to make sure beforehand that your microphone is correctly detected as the default audio input device, that is properly working and that your applications are allowed to access to the microphone.
 
 Finally, for future releases, probably the PC_Oculus build will be deprecated, as all the platforms supported by PC_Oculus are already supported by PC_SteamVR. So it is convenient you start installing the Steam and SteamVR if you want to keep using VRUnited on desktop with VR support.
+
+Follow the [Wiki](https://github.com/eventlab-projects/VRUnited_Builds/wiki) for more in depth information. 
