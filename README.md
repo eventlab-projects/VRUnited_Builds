@@ -4,7 +4,7 @@
 
 1. Download the latest build from the [Releases](https://github.com/eventlab-projects/VRUnited_Builds/releases) section. 
 2. Uncompress the __Builds.rar__ file. You will see that a folder for each supported platform is generated. Select the build that matches your system requirements:
-* __Quest__: It contains a compatible .apk for Oculus Quest (1/2). You must enable the developer mode on your Quest (see [here](https://developer.oculus.com/documentation/native/android/mobile-device-setup/)). Then you must sideload the .apk on your device using SideQuest (recommended, see Appendix A) or by directly using the corresponding adb commands through the console.
+* __Quest__: It contains a compatible .apk for _Oculus Quest (1/2)_. You must enable the developer mode on your _Quest_ (see [here](https://developer.oculus.com/documentation/native/android/mobile-device-setup/)). Then you must sideload the .apk on your device using [SideQuest](https://sidequestvr.com/setup-howto) (recommended, see Appendix A) or by directly using the corresponding adb commands through the console.
 * __Pico__: sideload the .apk on your device using SideQuest (recommended, see Appendix A) or by directly using the corresponding adb commands through the console. No further action is required as Pico devices already have the developer mode enabled.
 * __PC_Oculus__: This build works with the following devices: Oculus Rift family, Oculus Quest (1/2) + Link. You need to install the Oculus software on your computer.
 * __PC_SteamVR__: This build works with any platform supporting SteamVR, which includes (but not limited to) HTC Vive (Pro), Valve Index as well as all the platforms in PC_Oculus. It is necessary to install Steam in your PC, as well as the SteamVR application.
