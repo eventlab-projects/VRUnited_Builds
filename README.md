@@ -22,3 +22,12 @@ Follow the [Wiki](https://github.com/eventlab-projects/VRUnited_Builds/wiki) for
 This step is necessary only if you are going to run VRUnited in a mobile platform, like _Quest_ and _Pico_. [SideQuest](https://sidequestvr.com/) is a third-party application that makes sideloading content onto your Android VR Headset (tipycally Oculus Quest and Pico families) really easy. To start with, simply [download](https://sidequestvr.com/setup-howto) the version that matches your system.
 
 Once it is installed on your system, open SideQuest. Connect your VR device to the computer using the USB-C cable that goes with it. If the device is properly connected, at the top left corner it should appear the type of the device that you have connected and some information like the local IP address and the battery level.
+
+If the button does not turn green but it keeps red, it means that it has not been possible to connect to the HMD. It usually happens on _Quest_ and it is because the developer mode has not been activated correctly. Check the following video to make sure that you are following all the steps to activate the developer mode:
+https://www.youtube.com/watch?v=pdm54MRXWgk
+
+Next in the bar menu that is located at the top right corner of the screen, select the icon that looks like a box with an arrow pointing down.
+
+A file explorer window will appear. Look for the APK that you want to install in your device. Make sure to select the corresponding APK for your device, as APKs from Oculus Quest and Pico devices are different and one does not work on the other device.
+
+If the installation process succeeds, you will see the following message at the bottom of your screen:
