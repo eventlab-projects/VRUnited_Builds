@@ -1,6 +1,6 @@
 # VRUnited_Builds
 
-1. Download the latest build from the Releases section. 
+1. Download the latest build from the [Releases](https://github.com/eventlab-projects/VRUnited_Builds/releases) section. 
 2. Uncompress the Builds.rar and select the build that matches your system requirements.
 * Quest: It contains a compatible .apk for Oculus Quest (1/2). You must enable the developer mode on your Quest (see here). Then you must sideload the .apk on your device using SideQuest (recommended, see Appendix A) or by directly using the corresponding adb commands through the console.
 * Pico: sideload the .apk on your device using SideQuest (recommended, see Appendix A) or by directly using the corresponding adb commands through the console. No further action is required as Pico devices already have the developer mode enabled.
