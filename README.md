@@ -1,5 +1,7 @@
 # VRUnited_Builds
 
+# Install
+
 1. Download the latest build from the [Releases](https://github.com/eventlab-projects/VRUnited_Builds/releases) section. 
 2. Uncompress the __Builds.rar__ file. You will see that a folder for each supported platform is generated. Select the build that matches your system requirements:
 * __Quest__: It contains a compatible .apk for Oculus Quest (1/2). You must enable the developer mode on your Quest (see here). Then you must sideload the .apk on your device using SideQuest (recommended, see Appendix A) or by directly using the corresponding adb commands through the console.
