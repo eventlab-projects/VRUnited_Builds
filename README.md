@@ -16,21 +16,3 @@ Also take into consideration that, if you are running the application through th
 Finally, for future releases, probably the PC_Oculus build will be deprecated, as all the platforms supported by PC_Oculus are already supported by PC_SteamVR. So it is convenient you start installing the Steam and SteamVR if you want to keep using VRUnited on desktop with VR support.
 
 Follow the [Wiki](https://github.com/eventlab-projects/VRUnited_Builds/wiki) for more in depth information. 
-
-# Appendix B: Where is VRUnited installed?
-
-## Meta Quest 
-
-Select the _Apps_ menu on the main menu. On the _Apps_ window, click on the dropdown menu located at the top right corner, and select _Unknown Sources_. 
-
-![](/Documentation~/AppendixB/b00.jpg)
-
-Select VRUnited from the apps list. 
-
-![](/Documentation~/AppendixB/b01.jpg)
-
-## Pico Neo 
-
-If you have a Pico Neo device, just select _App Library_ on the main menu and select _VRUnited_. 
-
-![](/Documentation~/AppendixB/b02.jpg)
