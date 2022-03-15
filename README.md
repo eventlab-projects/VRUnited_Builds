@@ -31,6 +31,18 @@ https://www.youtube.com/watch?v=pdm54MRXWgk
 
 Next in the bar menu that is located at the top right corner of the screen, select the icon that looks like a box with an arrow pointing down.
 
+![](/Documentation~/AppendixA/sq01.png)
+
 A file explorer window will appear. Look for the APK that you want to install in your device. Make sure to select the corresponding APK for your device, as APKs from Oculus Quest and Pico devices are different and one does not work on the other device.
 
+![](/Documentation~/AppendixA/sq02.png)
+
 If the installation process succeeds, you will see the following message at the bottom of your screen:
+
+![](/Documentation~/AppendixA/sq03.png)
+
+You can also check the log of the application in the running tasks section.
+
+![](/Documentation~/AppendixA/sq04.png)
+
+Now you can proceed to execute the application in your device.
