@@ -54,3 +54,13 @@ Now you can proceed to execute the application in your device.
 Select the _Apps_ menu on the main menu. On the _Apps_ window, click on the dropdown menu located at the top right corner, and select _Unknown Sources_. 
 
 ![](/Documentation~/AppendixB/b00.jpg)
+
+Select VRUnited from the apps list. 
+
+![](/Documentation~/AppendixB/b01.jpg)
+
+## Pico Neo 
+
+If you have a Pico Neo device, just select _App Library_ on the main menu and select _VRUnited_. 
+
+![](/Documentation~/AppendixB/b02.jpg)
