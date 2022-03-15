@@ -52,3 +52,5 @@ Now you can proceed to execute the application in your device.
 ## Meta Quest 
 
 Select the _Apps_ menu on the main menu. On the _Apps_ window, click on the dropdown menu located at the top right corner, and select _Unknown Sources_. 
+
+![](/Documentation~/AppendixB/b00.jpg)
