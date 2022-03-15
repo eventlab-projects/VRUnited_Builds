@@ -23,6 +23,8 @@ This step is necessary only if you are going to run VRUnited in a mobile platfor
 
 Once it is installed on your system, open SideQuest. Connect your VR device to the computer using the USB-C cable that goes with it. If the device is properly connected, at the top left corner it should appear the type of the device that you have connected and some information like the local IP address and the battery level.
 
+![](/Documentation~/AppendixA/sq00.png)
+
 If the button does not turn green but it keeps red, it means that it has not been possible to connect to the HMD. It usually happens on _Quest_ and it is because the developer mode has not been activated correctly. Check the following video to make sure that you are following all the steps to activate the developer mode:
 
 https://www.youtube.com/watch?v=pdm54MRXWgk
