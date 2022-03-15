@@ -16,3 +16,5 @@ Also take into consideration that, if you are running the application through th
 Finally, for future releases, probably the PC_Oculus build will be deprecated, as all the platforms supported by PC_Oculus are already supported by PC_SteamVR. So it is convenient you start installing the Steam and SteamVR if you want to keep using VRUnited on desktop with VR support.
 
 Follow the [Wiki](https://github.com/eventlab-projects/VRUnited_Builds/wiki) for more in depth information. 
+
+[My Awesome Wiki](../../wiki)
