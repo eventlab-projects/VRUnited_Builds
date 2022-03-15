@@ -17,4 +17,4 @@ Finally, for future releases, probably the PC_Oculus build will be deprecated, a
 
 Follow the [Wiki](https://github.com/eventlab-projects/VRUnited_Builds/wiki) for more in depth information. 
 
-[My Awesome Wiki](../../wiki/Appendix A)
+[My Awesome Wiki](../../wiki/Appendix-A)
