@@ -46,3 +46,7 @@ You can also check the log of the application in the running tasks section.
 ![](/Documentation~/AppendixA/sq04.png)
 
 Now you can proceed to execute the application in your device.
+
+# Appendix B: Where is VRUnited installed?
+
+## Meta Quest 
